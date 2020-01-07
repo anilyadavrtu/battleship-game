@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74031452-08e8-45d9-b685-84ebadc4c0ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vbe0B1G8he6cqtYfvQhm0X7tin" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/thoughtworks/battleship/setup" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.thoughtworks.battleship.setup" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.thoughtworks.battleship.start" />
+      <recent name="com.thoughtworks.battleship.play" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\springProjects\battleship-game\src\main\java\com\thoughtworks\battleship\setup" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PrepareGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="battleship-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thoughtworks.battleship.setup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thoughtworks.battleship.setup" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.battleship.setup.PrepareGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrepareGameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74031452-08e8-45d9-b685-84ebadc4c0ff" name="Default Changelist" comment="" />
+      <created>1577525996285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577525996285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1577534704834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1577534704834" />
+    <state x="275" y="23" key="#Project_Structure" timestamp="1577534596772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577534596772" />
+    <state x="479" y="224" width="439" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577536035802">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="439" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1577536035802" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1577526422095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577526422095" />
+    <state width="1323" height="18" key="GridCell.Tab.0.bottom" timestamp="1577584684520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577584684520" />
+    <state width="1323" height="18" key="GridCell.Tab.0.center" timestamp="1577584684519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577584684519" />
+    <state width="1323" height="18" key="GridCell.Tab.0.left" timestamp="1577584684519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577584684519" />
+    <state width="1323" height="18" key="GridCell.Tab.0.right" timestamp="1577584684520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="18" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577584684520" />
+    <state x="444" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577534724013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1577534724013" />
+  </component>
+</project>

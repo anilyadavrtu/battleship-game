@@ -1,0 +1,10 @@
+
+;squid:S1659"$Declare "yCoord" on a separate line.(ÄºìÊ
+Gsquid:S1659#"+Declare "missileTarget" on a separate line.(‰î·Öüÿÿÿÿ
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¥‹à¡
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(›ò€
+T
+squid:S106E"9Replace this use of System.out or System.err by a logger.(½õĞıÿÿÿÿ
+O
+squid:S106X"9Replace this use of System.out or System.err by a logger.(¼Ï¢Ô
